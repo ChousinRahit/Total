@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Total/static/css/main.15173ee3.chunk.css",
+    "main.js": "/Total/static/js/main.b4b45973.chunk.js",
+    "main.js.map": "/Total/static/js/main.b4b45973.chunk.js.map",
+    "runtime-main.js": "/Total/static/js/runtime-main.455f20ac.js",
+    "runtime-main.js.map": "/Total/static/js/runtime-main.455f20ac.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/Total/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.12c4e699.chunk.js": "/Total/static/js/2.12c4e699.chunk.js",
+    "static/js/2.12c4e699.chunk.js.map": "/Total/static/js/2.12c4e699.chunk.js.map",
+    "index.html": "/Total/index.html",
+    "precache-manifest.b35025f4a069f3c8a34c4e324fc1f6ac.js": "/Total/precache-manifest.b35025f4a069f3c8a34c4e324fc1f6ac.js",
+    "service-worker.js": "/Total/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/Total/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.15173ee3.chunk.css.map": "/Total/static/css/main.15173ee3.chunk.css.map",
+    "static/media/style.module.css": "/Total/static/media/img1.86e3b491.png",
+    "static/media/styles.module.css": "/Total/static/media/ivan-torres-MQUqbmszGGM-unsplash.7d2b44f8.jpg",
+    "static/media/list1.png": "/Total/static/media/list1.76344adc.png",
+    "static/media/list2.jpg": "/Total/static/media/list2.7d4c21df.jpg",
+    "static/media/list3.jpg": "/Total/static/media/list3.820b9d24.jpg",
+    "static/media/list4.jpg": "/Total/static/media/list4.dbdba0cf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.455f20ac.js",
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.12c4e699.chunk.js",
+    "static/css/main.15173ee3.chunk.css",
+    "static/js/main.b4b45973.chunk.js"
+  ]
+}
