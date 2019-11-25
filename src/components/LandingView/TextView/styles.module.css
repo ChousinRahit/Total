@@ -49,3 +49,7 @@
 .icon_wrapper icon {
   width: 30px;
 }
+
+.text > span {
+  color: #f8a22f;
+}

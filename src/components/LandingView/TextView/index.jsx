@@ -8,7 +8,7 @@ const TextView = () => {
     <div className={classes.text_wrapper}>
       <h3 className={classes.text}>
         Have no time <br />
-        to prepare food?
+        to prepare <span>food</span>?
       </h3>
       <p className={classes.ptext}>
         Choose one of our plans, enter delivery time <br />
